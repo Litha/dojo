@@ -57,7 +57,10 @@
                     "url": "http://github.com/superdweebie/sijit",
                     "reference": "0abde6e905c2110636c9d9331ebbebd2c14f9d8b"
                 },
-                "type": "library"
+                "type": "library",
+                "require": {
+                    "dojo/bootstrap: dev-master"
+                }
             }
         },
         "dojo/bootstrap": {
@@ -67,7 +70,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/xsokev/Dojo-Bootstrap",
-                    "reference": "e8eef5196feb3e3f64c2de854114eac2b6616952"
+                    "reference": "ea5d3dd0741a613bd2326da3d094879f4de3ba24"
                 },
                 "type": "library"
             }            
