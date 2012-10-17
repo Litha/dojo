@@ -59,7 +59,7 @@
                 },
                 "type": "library",
                 "require": {
-                    "dojo/bootstrap: dev-master"
+                    "dojo/bootstrap": "dev-master"
                 }
             }
         },
